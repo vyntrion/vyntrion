@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 Welcome! I'm Vyntrion
+## 👋 Welcome! I'm Vansh Baghel
 
 **Innovator | Developer | Lifelong Learner**
 
