@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdmbzhxOW16czJsNGJsdXRyM2J6aTBxOWk0MTJhNm1uczdxaHV3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/r3oOLlq6oKUw2TCMKD/giphy.gif" alt="Pomodoro Timer" width="50" height="50"/> Vyntrion
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdmbzhxOW16czJsNGJsdXRyM2J6aTBxOWk0MTJhNm1uczdxaHV3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/r3oOLlq6oKUw2TCMKD/giphy.gif" alt="Pomodoro Timer" width="50" height="50"/> Vansh Baghel
 
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="270"/>
 
